@@ -1,4 +1,4 @@
-Changing title with filter
+Changing Title with Filter
 --------------------------
 
 ```php
